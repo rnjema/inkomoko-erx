@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue Guide
+    url: https://github.com/rnjema/inkomoko-erx/blob/main/docs/ISSUE_GUIDE.md
+    about: Read this before opening an issue — labels, sizing, lifecycle, and assignment rules.

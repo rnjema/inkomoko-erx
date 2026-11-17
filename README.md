@@ -6,6 +6,10 @@
 
 A data cleanup project aimed at streamlining retrospective and instance entity resolution/record linkage.
 
+Contributing? Start with [CONTRIBUTING.md](CONTRIBUTING.md) and
+[docs/ISSUE_GUIDE.md](docs/ISSUE_GUIDE.md) — every task on this project is an
+issue first.
+
 ## Project Organization
 
 ```
